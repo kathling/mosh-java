@@ -10,5 +10,7 @@ public class t {
         employee.setHourlyRate(20);
         int wage = employee.calculateWage(10);
         System.out.println(wage);
+
+        System.out.println("hello");
     }
 }
